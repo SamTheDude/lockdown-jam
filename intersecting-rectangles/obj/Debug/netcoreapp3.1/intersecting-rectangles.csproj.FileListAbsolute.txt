@@ -1,0 +1,12 @@
+/Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/bin/Debug/netcoreapp3.1/intersecting-rectangles.deps.json
+/Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/bin/Debug/netcoreapp3.1/intersecting-rectangles.runtimeconfig.json
+/Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/bin/Debug/netcoreapp3.1/intersecting-rectangles.runtimeconfig.dev.json
+/Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/bin/Debug/netcoreapp3.1/intersecting-rectangles.dll
+/Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/bin/Debug/netcoreapp3.1/intersecting-rectangles.pdb
+/Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/obj/Debug/netcoreapp3.1/intersecting-rectangles.csprojAssemblyReference.cache
+/Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/obj/Debug/netcoreapp3.1/intersecting-rectangles.csproj.CoreCompileInputs.cache
+/Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/obj/Debug/netcoreapp3.1/intersecting-rectangles.AssemblyInfoInputs.cache
+/Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/obj/Debug/netcoreapp3.1/intersecting-rectangles.AssemblyInfo.cs
+/Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/obj/Debug/netcoreapp3.1/intersecting-rectangles.dll
+/Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/obj/Debug/netcoreapp3.1/intersecting-rectangles.pdb
+/Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/obj/Debug/netcoreapp3.1/intersecting-rectangles.genruntimeconfig.cache
