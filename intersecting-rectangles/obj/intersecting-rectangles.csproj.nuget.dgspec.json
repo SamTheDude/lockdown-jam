@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/intersecting-rectangles.csproj": {}
+    "C:\\Users\\kent_\\Documents\\github\\lockdown-jam\\intersecting-rectangles\\intersecting-rectangles.csproj": {}
   },
   "projects": {
-    "/Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/intersecting-rectangles.csproj": {
+    "C:\\Users\\kent_\\Documents\\github\\lockdown-jam\\intersecting-rectangles\\intersecting-rectangles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/intersecting-rectangles.csproj",
+        "projectUniqueName": "C:\\Users\\kent_\\Documents\\github\\lockdown-jam\\intersecting-rectangles\\intersecting-rectangles.csproj",
         "projectName": "intersecting-rectangles",
-        "projectPath": "/Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/intersecting-rectangles.csproj",
-        "packagesPath": "/Users/kent_sam/.nuget/packages/",
-        "outputPath": "/Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/obj/",
+        "projectPath": "C:\\Users\\kent_\\Documents\\github\\lockdown-jam\\intersecting-rectangles\\intersecting-rectangles.csproj",
+        "packagesPath": "C:\\Users\\kent_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kent_\\Documents\\github\\lockdown-jam\\intersecting-rectangles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/kent_sam/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\kent_\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -10,3 +10,16 @@
 /Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/obj/Debug/netcoreapp3.1/intersecting-rectangles.dll
 /Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/obj/Debug/netcoreapp3.1/intersecting-rectangles.pdb
 /Users/kent_sam/Documents/lockdown-jam-projects/intersecting-rectangles/obj/Debug/netcoreapp3.1/intersecting-rectangles.genruntimeconfig.cache
+C:\Users\kent_\Documents\github\lockdown-jam\intersecting-rectangles\bin\Debug\netcoreapp3.1\intersecting-rectangles.exe
+C:\Users\kent_\Documents\github\lockdown-jam\intersecting-rectangles\bin\Debug\netcoreapp3.1\intersecting-rectangles.deps.json
+C:\Users\kent_\Documents\github\lockdown-jam\intersecting-rectangles\bin\Debug\netcoreapp3.1\intersecting-rectangles.runtimeconfig.json
+C:\Users\kent_\Documents\github\lockdown-jam\intersecting-rectangles\bin\Debug\netcoreapp3.1\intersecting-rectangles.runtimeconfig.dev.json
+C:\Users\kent_\Documents\github\lockdown-jam\intersecting-rectangles\bin\Debug\netcoreapp3.1\intersecting-rectangles.dll
+C:\Users\kent_\Documents\github\lockdown-jam\intersecting-rectangles\bin\Debug\netcoreapp3.1\intersecting-rectangles.pdb
+C:\Users\kent_\Documents\github\lockdown-jam\intersecting-rectangles\obj\Debug\netcoreapp3.1\intersecting-rectangles.csprojAssemblyReference.cache
+C:\Users\kent_\Documents\github\lockdown-jam\intersecting-rectangles\obj\Debug\netcoreapp3.1\intersecting-rectangles.csproj.CoreCompileInputs.cache
+C:\Users\kent_\Documents\github\lockdown-jam\intersecting-rectangles\obj\Debug\netcoreapp3.1\intersecting-rectangles.AssemblyInfoInputs.cache
+C:\Users\kent_\Documents\github\lockdown-jam\intersecting-rectangles\obj\Debug\netcoreapp3.1\intersecting-rectangles.AssemblyInfo.cs
+C:\Users\kent_\Documents\github\lockdown-jam\intersecting-rectangles\obj\Debug\netcoreapp3.1\intersecting-rectangles.dll
+C:\Users\kent_\Documents\github\lockdown-jam\intersecting-rectangles\obj\Debug\netcoreapp3.1\intersecting-rectangles.pdb
+C:\Users\kent_\Documents\github\lockdown-jam\intersecting-rectangles\obj\Debug\netcoreapp3.1\intersecting-rectangles.genruntimeconfig.cache
